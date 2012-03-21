@@ -1,0 +1,66 @@
+TPhysicsEngine
+v7
+r0
+t325174609.465670
+cCheck dependencies
+cCompileC build/PhysicsEngine.build/Debug/PhysicsEngine.build/Objects-normal/x86_64/main.o /Users/rishab/Documents/PhysicsEngine/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/rishab/Documents/PhysicsEngine/build/Debug/PhysicsEngine normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Users/rishab/Documents/PhysicsEngine/build/Debug/PhysicsEngine
+t1303481809
+s21696
+
+N/Users/rishab/Documents/PhysicsEngine/build/PhysicsEngine.build/Debug/PhysicsEngine.build/Objects-normal/x86_64/PhysicsEngine.LinkFileList
+c000000004C23DA6A0000000000000077
+t1277418090
+s119
+
+N/Users/rishab/Documents/PhysicsEngine/build/PhysicsEngine.build/Debug/PhysicsEngine.build/Objects-normal/x86_64/main.o
+t1303481809
+s84976
+
+N/Users/rishab/Documents/PhysicsEngine/main.cpp
+c000000004D6634930000000000002EB6
+t1298543763
+s11958
+i<iostream>
+i<math.h>
+i<fstream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325174608#325174608#0(0"0(0#1#0"8611159328#0"0#
+
+CCompileC build/PhysicsEngine.build/Debug/PhysicsEngine.build/Objects-normal/x86_64/main.o /Users/rishab/Documents/PhysicsEngine/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s325174608.954128
+e325174609.443203
+r1
+xCompileC
+xbuild/PhysicsEngine.build/Debug/PhysicsEngine.build/Objects-normal/x86_64/main.o
+x/Users/rishab/Documents/PhysicsEngine/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/rishab/Documents/PhysicsEngine/main.cpp325174608#325174609#0(0"2(22@111"The option '-D_GLIBCXX_DEBUG_PEDANTIC=1' should not be passed to GCC 4.2 and has been automatically suppressed.325174608#18446744073709551615#0#0(1@0"0(22@102"The option '-D_GLIBCXX_DEBUG=1' should not be passed to GCC 4.2 and has been automatically suppressed.325174608#18446744073709551615#0#0(1@0"0(0#0#46"/Users/rishab/Documents/PhysicsEngine/main.cpp8612249248#1388"    cd /Users/rishab/Documents/PhysicsEngine    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/rishab/Documents/PhysicsEngine/build/PhysicsEngine.build/Debug/PhysicsEngine.build/PhysicsEngine-generated-files.hmap -I/Users/rishab/Documents/PhysicsEngine/build/PhysicsEngine.build/Debug/PhysicsEngine.build/PhysicsEngine-own-target-headers.hmap -I/Users/rishab/Documents/PhysicsEngine/build/PhysicsEngine.build/Debug/PhysicsEngine.build/PhysicsEngine-all-target-headers.hmap -iquote /Users/rishab/Documents/PhysicsEngine/build/PhysicsEngine.build/Debug/PhysicsEngine.build/PhysicsEngine-project-headers.hmap -F/Users/rishab/Documents/PhysicsEngine/build/Debug -I/Users/rishab/Documents/PhysicsEngine/build/Debug/include -I/Users/rishab/Documents/PhysicsEngine/build/PhysicsEngine.build/Debug/PhysicsEngine.build/DerivedSources/x86_64 -I/Users/rishab/Documents/PhysicsEngine/build/PhysicsEngine.build/Debug/PhysicsEngine.build/DerivedSources -c /Users/rishab/Documents/PhysicsEngine/main.cpp -o /Users/rishab/Documents/PhysicsEngine/build/PhysicsEngine.build/Debug/PhysicsEngine.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/rishab/Documents/PhysicsEngine/build/Debug/PhysicsEngine normal x86_64
+s325174609.443313
+e325174609.465615
+r1
+xLd
+x/Users/rishab/Documents/PhysicsEngine/build/Debug/PhysicsEngine
+xnormal
+xx86_64
+lSLF07#2@68"Link /Users/rishab/Documents/PhysicsEngine/build/Debug/PhysicsEngine325174609#325174609#0(0"0(0#0#0"8611848864#517"    cd /Users/rishab/Documents/PhysicsEngine    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/rishab/Documents/PhysicsEngine/build/Debug -F/Users/rishab/Documents/PhysicsEngine/build/Debug -filelist /Users/rishab/Documents/PhysicsEngine/build/PhysicsEngine.build/Debug/PhysicsEngine.build/Objects-normal/x86_64/PhysicsEngine.LinkFileList -mmacosx-version-min=10.6 -o /Users/rishab/Documents/PhysicsEngine/build/Debug/PhysicsEngine0#
+
